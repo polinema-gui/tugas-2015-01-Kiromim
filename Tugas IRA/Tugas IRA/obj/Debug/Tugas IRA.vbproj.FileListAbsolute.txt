@@ -1,0 +1,14 @@
+c:\users\nafira\documents\visual studio 2012\Projects\Tugas IRA\Tugas IRA\bin\Debug\Tugas IRA.exe.config
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\bin\Debug\Tugas IRA.exe
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\bin\Debug\Tugas IRA.pdb
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\bin\Debug\Tugas IRA.xml
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\obj\Debug\Tugas_IRA.Form1.resources
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\obj\Debug\Tugas_IRA.Resources.resources
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.vbproj.GenerateResource.Cache
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.exe
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.xml
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.pdb
+H:\Tugas IRA\Tugas IRA\bin\Debug\Tugas IRA.exe.config
+H:\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.exe
+H:\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.xml
+H:\Tugas IRA\Tugas IRA\obj\Debug\Tugas IRA.pdb
